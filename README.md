@@ -20,4 +20,11 @@
 
 - Projects
 
-## Notes
+## Syllabus
+
+- https://blog.100xdevs.com/Web3-Client-side-9375f2aa571f4644aa45c3b5a5b6927c
+- https://blog.100xdevs.com/Web3-Contracts-ce3796e9db0e45708bc173f718b23392
+
+  ## Notes
+  
+
