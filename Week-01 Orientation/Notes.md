@@ -1,3 +1,7 @@
+# What is Blockchain?
+
+Blockchain is a decentralized and distributed digital ledger that records transactions across many computers, ensuring data security and transparency. It operates without a central authority, using cryptographic techniques to verify and add new transactions.
+
 # Why Blockchains?
 
 - **Inflating Currencies**: Central banks can print more money, leading to inflation.
@@ -9,22 +13,12 @@
 - **Lack of Backing**: Modern currencies are not backed by tangible assets like gold or silver.
 - **Recommended Watching**: _The Big Short_ (film) provides insight into financial crises and the need for better financial systems.
 
----
-
-# What is Blockchain?
-
-Blockchain is a decentralized and distributed digital ledger that records transactions across many computers, ensuring data security and transparency. It operates without a central authority, using cryptographic techniques to verify and add new transactions.
-
----
-
 # Main Characteristics of Blockchain
 
 1. **Decentralization**: Blockchain is managed across multiple nodes (machines), ensuring no single entity controls the data. Each node stores the entire blockchain, providing access to all data on the blockchain.
 2. **Immutability**: Once data is recorded on a blockchain, it cannot be easily altered or deleted, ensuring the integrity of the records.
 3. **Transparency**: All transactions recorded on a blockchain are visible to all participants, promoting openness and trust.
 4. **Consensus Mechanisms**: Nodes in the network follow consensus mechanisms (e.g., Proof of Work, Proof of Stake) to validate transactions and add them to the blockchain.
-
----
 
 # Purpose of Blockchain
 
@@ -34,8 +28,6 @@ The purpose of blockchain is to create a network of computers that agree upon a 
 - No single person or organization can control the process.
 
 Blockchain enables secure, transparent, and tamper-proof transactions without the need for a central authority.
-
----
 
 # How to Create a New Currency with Blockchain
 
@@ -60,8 +52,6 @@ There is a need for trustless, anonymized, and decentralized forms of money. Blo
 4. **Decentralization**:
    - Decentralized money operates on a network of nodes, preventing any single entity from having control and reducing the risk of manipulation or failure.
 
----
-
 # Hashing
 
 Hashing transforms input data of any size into a fixed-size string of characters.
@@ -78,8 +68,6 @@ Hashing transforms input data of any size into a fixed-size string of characters
 
 - Secure Hash Algorithm 256-bit: Produces a 256-bit (32-byte) hash value from any input.
 
----
-
 # Hashing vs. Encryption
 
 ## Hashing
@@ -93,8 +81,6 @@ Hashing transforms input data of any size into a fixed-size string of characters
 - Converts data into a different format.
 - Reversible (two-way function) using a key.
 - Used for data confidentiality (e.g., securing communication, data storage).
-
----
 
 # How Does Blockchain Work?
 
@@ -111,7 +97,6 @@ Hashing transforms input data of any size into a fixed-size string of characters
 - Blocks are linked together in a chronological order.
 - This creates a "chain" of blocks, hence the name "blockchain."
 
----
 
 # Important Terms
 
