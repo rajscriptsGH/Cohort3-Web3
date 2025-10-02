@@ -97,7 +97,6 @@ Hashing transforms input data of any size into a fixed-size string of characters
 - Blocks are linked together in a chronological order.
 - This creates a "chain" of blocks, hence the name "blockchain."
 
-
 # Important Terms
 
 ## Nonce
